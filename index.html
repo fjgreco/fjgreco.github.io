@@ -99,7 +99,15 @@ function myFunction() {
  </tr>
 </table>
 
-
+<script>
+         function myPopup(myURL, title, myWidth, myHeight) {
+            var left = (screen.width - myWidth) / 2;
+            var top = (screen.height - myHeight) / 4;
+            var myWindow = window.open(myURL, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=' + myWidth + ', height=' + myHeight + ', top=' + top + ', left=' + left);
+         }
+      </script>
+      <button onclick=" myPopup ('http://www.qries.com', 'web', 1050, 550);">Open Qries.com</button>
+ 
 <div class="popup" onclick="myFunction()"><h3>BIO</h3><span class="popuptext" id="myPopup">
 <p>
 Frank Greco is an executive IT architect at IBM, focused on machine learning, AI, and analytics. He works with higher education institutions, the life-science/healthcare industry, and state and local governments at the intersection of business and technology. He has worn many hats, including programmer, project manager, and IT architecture consultant.
