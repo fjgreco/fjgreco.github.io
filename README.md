@@ -2,7 +2,11 @@
 
 #### Complex Integration of Data, Machine Learning Development, and HPC
 
+[E2EAI-public](https://fjgreco.github.io/E2EAI-public/)
+
 [Project Expo](https://fjgreco.github.io/ProjectExpo/)
+
+[Python Client Lnterface to LSF](https://fjgreco.gitbub.io/LSF-API/)
 
 #### Semantic Search
 
@@ -17,11 +21,3 @@
 [APT-Advancing Practices of Teachers-UE1](https://fjgreco.github.io/UC-UE1/)  
 
 [APT-Advancing Practices of Teachers-UE2](https://fjgreco.github.io/UC-UE2/) 
-
-#### End-2-End AI
-
-[Bioinformatics as a Service](https://fjgreco.github.io/himss2020/)  
-
-#### High Performance Computing
-
-[Python Client Lnterface to LSF](https://fjgreco.gitbub.io/LSF-API/)
