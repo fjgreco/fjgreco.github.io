@@ -8,6 +8,10 @@
 
 [Python Client Lnterface to LSF](https://fjgreco.gitbub.io/LSF-API/)
 
+#### Trusted AI & Explanability
+
+[Trusted AI](https://fjgreco.github.io/TrustedAI/)
+
 #### Semantic Search
 
 [Billion Dollar BOT](https://fjgreco.github.io/BDB/)
