@@ -12,16 +12,22 @@
 
 [Trusted AI](https://fjgreco.github.io/TrustedAI/)
 
-#### Semantic Search
-
-[Billion Dollar BOT](https://fjgreco.github.io/BDB/)
-
-#### Computational Linguistics
+#### Computational Linguistics (Voice, Semantics)
 
 [Watson-STT-TTS-Train-test](https://fjgreco.github.io/Watson-STT-TTS-Train-test/)
+
+#### Semantic Search Applications
+
+[Alexa-NLC](https://fjgreco.github.io/Alexa-NLC/)
+
+[Billion Dollar BOT](https://fjgreco.github.io/BDB/)
 
 #### Education
 
 [APT-Advancing Practices of Teachers-UE1](https://fjgreco.github.io/UC-UE1/)  
 
 [APT-Advancing Practices of Teachers-UE2](https://fjgreco.github.io/UC-UE2/) 
+
+#### Utilities
+
+#### Explorations
