@@ -32,7 +32,7 @@
 
 Flask-API Example: [WikiHealth](https://fjgreco.github.io/wikihealth/)
 
-Memcache server: [ODataServer](https://fjgreco.github.io/OdataServer/)
+Memcache server: [ODataServer](https://fjgreco.github.io/ODataServer/)
 
 #### Explorations   
 
