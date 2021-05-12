@@ -30,7 +30,7 @@
 
 #### Utilities
 
-Flask-API Example: [WikiHealth](https://fjgreco.github.io/WikiHealth/)
+Flask-API Example: [WikiHealth](https://fjgreco.github.io/wikihealth/)
 
 #### Explorations   
 
