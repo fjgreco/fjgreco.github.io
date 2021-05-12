@@ -6,7 +6,7 @@
 
 [Project Expo](https://fjgreco.github.io/ProjectExpo/)
 
-[Python Client Lnterface to LSF](https://fjgreco.gitbub.io/LSF-API/)
+[Python Client Interface to LSF](https://fjgreco.gitbub.io/LSF-API/)
 
 #### Trusted AI & Explanability
 
@@ -14,11 +14,11 @@
 
 #### Computational Linguistics (Voice, Semantics)
 
-[Watson-STT-TTS-Train-test](https://fjgreco.github.io/Watson-STT-TTS-Train-test/)
+Speech to Text with Speaker Identification: [Watson-STT-TTS-Train-test](https://fjgreco.github.io/Watson-STT-TTS-Train-test/)
 
 #### Semantic Search Applications
 
-[Alexa-NLC](https://fjgreco.github.io/Alexa-NLC/)
+Voice initiatied language classification:[Alexa-NLC](https://fjgreco.github.io/Alexa-NLC/)
 
 [Billion Dollar BOT](https://fjgreco.github.io/BDB/)
 
@@ -32,7 +32,7 @@
 
 Flask-API Example: [WikiHealth](https://fjgreco.github.io/wikihealth/)
 
-Memcache server: [ODataServer](https://fjgreco.github.io/ODataServer/)
+Memcache Server: [ODataServer](https://fjgreco.github.io/ODataServer/)
 
 #### Explorations   
 
