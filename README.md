@@ -10,4 +10,4 @@
 
 #### End-2-End AI
 
-[Bioinfornatics as a Service](https://fjgreco.github.io/himss2020/)  
+[Bioinformatics as a Service](https://fjgreco.github.io/himss2020/)  
