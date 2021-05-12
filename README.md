@@ -6,7 +6,7 @@
 
 [Project Expo](https://fjgreco.github.io/ProjectExpo/)
 
-[Python Client Interface to LSF](https://fjgreco.gitbub.io/LSF-API/)
+[Python Client Interface to LSF](https://fjgreco.github.io/LSF-API/)
 
 #### Trusted AI & Explanability
 
