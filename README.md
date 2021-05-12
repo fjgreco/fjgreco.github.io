@@ -1,6 +1,8 @@
 ## PROJECT REPOSITORIES
 
-[Watson-STT-TTS-Train-test/](https://fjgreco.github.io/Watson-STT-TTS-Train-test/)
+#### Computational Linguistics
+
+[Watson-STT-TTS-Train-test](https://fjgreco.github.io/Watson-STT-TTS-Train-test/)
 
 #### UChicago Urban Education Impact
 
