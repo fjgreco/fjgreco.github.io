@@ -6,8 +6,6 @@
 
 [Project Expo](https://fjgreco.github.io/ProjectExpo/)
 
-lsf_faas Python Client Interface to LSF: [LSF-API](https://fjgreco.github.io/LSF-API/)
-
 #### Trusted AI & Explanability
 
 [Trusted AI](https://fjgreco.github.io/TrustedAI/)
