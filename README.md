@@ -17,7 +17,7 @@
   
 <li>Synthetic Assay BASE</li>
   
-<li>DataLens BASE</li>
+<li>Data Lens BASE</li>
 
 </ul>
 
