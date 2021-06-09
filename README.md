@@ -1,8 +1,10 @@
-## PROJECT REPOSITORIES
+## PUBLIC REPOSITORIES
 
 #### Complex Integration of Data, Machine Learning Development, and HPC
 
 [E2EAI-public](https://fjgreco.github.io/E2EAI-public/)
+
+## PRIVATE REPOSITORIES:
 
 [Project Expo](https://fjgreco.github.io/ProjectExpo/) 
 
