@@ -1,4 +1,4 @@
-## PUBLIC REPOSITORIES
+## PUBLIC REPOSITORIES:
 
 #### Complex Integration of Data, Machine Learning Development, and HPC
 
