@@ -9,17 +9,23 @@
 <ul>
 <li>E2EAI BASE</li>
 
-<li>Federated Learning</li>
+<li>Federated Learning BASE</li>
   
-<li>LSF-API</li>
+<li>LSF-API BASE</li>
 
 <li>Multi-model DLE</li>
   
-<li>Synthetic Assay</li>
+<li>Synthetic Assay BASE</li>
   
-<li>DataLens</li>
+<li>DataLens BASE</li>
 
 </ul>
+
+[Synthetic Assay](https://fjgreco.github.io/SyntheticAssay)
+  
+[DataLens](https://fjgreco.github.io/DataLens)
+
+[LSF-API](https://fjgreco.github.io/LSF-API)
 
 #### Trusted AI & Explanability
 
