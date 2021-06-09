@@ -17,7 +17,7 @@
   
 <li>Synthetic Assay</li>
   
-<li>Data Lens</li>
+<li>DataLens</li>
 
 </ul>
 
