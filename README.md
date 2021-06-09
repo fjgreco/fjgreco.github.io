@@ -6,6 +6,20 @@
 
 [Project Expo](https://fjgreco.github.io/ProjectExpo/)
 
+<ul>
+<li>
+[Federated Learning](https://fjgreco.github.io/FederatedLearning/)
+</li>
+
+<li>
+[Multi-model DLE](https://fjgreco.github.io/Multi-Model-DLE)
+</li>
+
+<li>
+[Synthetic Assay](https://fjgreco.github.io/SyntheticAssay)
+</li>
+</ul>
+
 #### Trusted AI & Explanability
 
 [Trusted AI](https://fjgreco.github.io/TrustedAI/)
