@@ -4,7 +4,7 @@
 
 [E2EAI-public](https://fjgreco.github.io/E2EAI-public/)
 
-## PRIVATE REPOSITORIES:
+## PRIVATE REPOSITORIES*:
 
 [Project Expo](https://fjgreco.github.io/ProjectExpo/) 
 
@@ -57,5 +57,5 @@ Memcache Server: [ODataServer](https://fjgreco.github.io/ODataServer/)
 
 #### Explorations   
 
-<p>Contact fjgreco@us.ibm.com for access to private repositories<p>
+<p>*Contact fjgreco@us.ibm.com for access to private repositories<p>
 
