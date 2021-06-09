@@ -57,4 +57,5 @@ Memcache Server: [ODataServer](https://fjgreco.github.io/ODataServer/)
 
 #### Explorations   
 
+<p>Contact fjgreco@us.ibm.com for access to private repositories<p>
 
