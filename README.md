@@ -41,7 +41,7 @@ Speech to Text with Speaker Identification: [Watson-STT-TTS-Train-test](https://
 
 #### Semantic Search Applications
 
-Voice Initiatied Text Classification:[Alexa-NLC](https://fjgreco.github.io/Alexa-NLC/)
+Voice Initiatied Text Classification: [Alexa-NLC](https://fjgreco.github.io/Alexa-NLC/)
 
 [Billion Dollar BOT](https://fjgreco.github.io/BDB/)
 
