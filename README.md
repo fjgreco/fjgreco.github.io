@@ -7,17 +7,18 @@
 [Project Expo](https://fjgreco.github.io/ProjectExpo/)
 
 <ul>
-<li>
-[Federated Learning](https://fjgreco.github.io/FederatedLearning/)
-</li>
+<li>E2EAI BASE</li>
 
-<li>
-[Multi-model DLE](https://fjgreco.github.io/Multi-Model-DLE)
-</li>
+<li>Federated Learning</li>
+  
+<li>LSF-API</li>
 
-<li>
-[Synthetic Assay](https://fjgreco.github.io/SyntheticAssay)
-</li>
+<li>Multi-model DLE</li>
+  
+<li>Synthetic Assay</li>
+  
+<li>Data Lens</li>
+
 </ul>
 
 #### Trusted AI & Explanability
