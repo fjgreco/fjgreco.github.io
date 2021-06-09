@@ -4,7 +4,7 @@
 
 [E2EAI-public](https://fjgreco.github.io/E2EAI-public/)
 
-[Project Expo](https://fjgreco.github.io/ProjectExpo/)
+[Project Expo](https://fjgreco.github.io/ProjectExpo/) 
 
 <ul>
 <li>E2EAI BASE</li>
@@ -13,7 +13,7 @@
   
 <li>LSF-API BASE</li>
 
-<li>Multi-model DLE</li>
+<li>Multi-model DLE BASE</li>
   
 <li>Synthetic Assay BASE</li>
   
