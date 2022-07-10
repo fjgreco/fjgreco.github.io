@@ -53,7 +53,7 @@ Voice Initiatied Text Classification: [Alexa-NLC](https://fjgreco.github.io/Alex
 
 #### Utilities and Development Tools
 
-Technical Concepts (Synthetic Data, Text classification, FLASK): [ws-wordpress](https://fjgreco.github.io/ws-technical/)
+Technical Concepts (Synthetic Data, Text classification, FLASK): [ws-technical](https://fjgreco.github.io/ws-technical/)
 
 Memcache Server: [ODataServer](https://fjgreco.github.io/ODataServer/)
 
