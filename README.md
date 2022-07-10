@@ -53,7 +53,7 @@ Voice Initiatied Text Classification: [Alexa-NLC](https://fjgreco.github.io/Alex
 
 #### Utilities and Development Tools
 
-Flask-API Example: [WikiHealth](https://fjgreco.github.io/wikihealth/)
+Wordpress-Flask-API Example: [ws-wordpress](https://fjgreco.github.io/ws-wordpress/)
 
 Memcache Server: [ODataServer](https://fjgreco.github.io/ODataServer/)
 
